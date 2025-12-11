@@ -22,4 +22,5 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = MyClient(intents=intents)
-client.run('MTQ0ODY0ODk2MDU0ODkyOTc2OQ.GOm8yv.qJRWgbSkS3bn_Z4aBCDvysIFxkCRCCSC4_KwPU') 
+
+client.run('Add Your Token here')
